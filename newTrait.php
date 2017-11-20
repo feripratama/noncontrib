@@ -4,7 +4,7 @@
     
     protected $data;
     
-    public function setData($value)
+    public function setDataz($value)
     {
       
       return $this->data = $value;
