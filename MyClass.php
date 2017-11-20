@@ -11,7 +11,7 @@
        $this->where = $val;
     }
     
-    public function getData()
+    public function getDatas()
     {
       
     }
